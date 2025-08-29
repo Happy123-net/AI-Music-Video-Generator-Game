@@ -1,0 +1,5 @@
+{
+  "name": "VEVO Music Video Generator AI",
+  "description": "An AI-powered game to generate music videos. Enter a prompt, choose your style, and let Gemini create a unique video complete with a VEVO-style watermark. Download your creation or get ready to share it on social media.",
+  "requestFramePermissions": []
+}
